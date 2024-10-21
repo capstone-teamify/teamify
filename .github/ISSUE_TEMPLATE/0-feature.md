@@ -12,7 +12,7 @@ assignees: ''
 Cc:
 <!-- add intended user next to **Hi** -->
 Hi {{ USER }}
-  
+
 ### Pain
 Explain the pain you are experiencing.  This is **WHY** this must be done.
 
